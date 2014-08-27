@@ -12,3 +12,9 @@ Initial idea
 * Also, generate pure JNI code
 * Defaults over configuration
 * Support android ART/Dalvik and jvm
+
+Resources
+---------
+* [Awesome guy tutorial](https://code.google.com/p/awesomeguy/wiki/awesomeguyJNI#awesomeguyJNI)
+* [From a pentester's point of view](http://resources.infosecinstitute.com/android-java-native-interface/)
+* etc.
